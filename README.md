@@ -1,10 +1,13 @@
 # 💫 About Me:
-Hi, I’m Mousab  <br>🎓 UIUC student  <br>💻 Interested in building, learning, and growing through projects  <br>📫 Contact: mousabe2@illinois.edu<br>
+Hi, I’m Mousab  
+🎓 UIUC student  
+💻 Interested in building, learning, and growing through projects  
+📫 Contact: mousabe2@illinois.edu  
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=mousabe&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mousabe&theme=dark&hide_border=true)
 
-! [] (<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousabe&show_icons=true&locale=en&layout=compact" alt="mousabe" />)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mousabe&show_icons=true&locale=en&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
