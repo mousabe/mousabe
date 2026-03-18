@@ -4,7 +4,7 @@ Hi, I’m Mousab  <br>🎓 UIUC student  <br>💻 Interested in building, learni
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=mousabe&theme=dark&hide_border=true)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousabe&show_icons=true&locale=en&layout=compact" alt="mousabe" /></p>
+! [] (<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousabe&show_icons=true&locale=en&layout=compact" alt="mousabe" />)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
