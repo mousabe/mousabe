@@ -7,6 +7,8 @@ Hi, I’m Mousab
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=mousabe&theme=tokyonight&hide_border=true&border_radius=15)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mousabe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
