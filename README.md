@@ -1,16 +1,20 @@
 # 💫 About Me:
-Hi, I’m Mousab  
+
+```diff
++ Mousab Eltgani
+```
+
 🎓 UIUC  
-💻 Interested in building, learning, and growing through projects  
-📫 Contact: mousabe2@illinois.edu  
+⚡ Building products, code, and momentum  
+🧠 Data Science • Engineering • Business  
+📫 mousabe2@illinois.edu  
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=mousabe&theme=tokyonight&hide_border=true&border_radius=15)
 
 # 🛠️ Tech Stack:
+![](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,pytorch&theme=dark)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,pytorch" />
-</p>
----
-[![](https://visitcount.itsvg.in/api?id=mousabe&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🌐 Connect:
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousabe2@illinois.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousabheltgani)
