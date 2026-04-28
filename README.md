@@ -5,7 +5,10 @@ Hi, I’m Mousab
 📫 Contact: mousabe2@illinois.edu  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mousabe&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=mousabe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&number_format=long)
+
+# 💻 Top Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mousabe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
