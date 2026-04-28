@@ -7,9 +7,10 @@ Hi, I’m Mousab
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=mousabe&theme=tokyonight&hide_border=true&border_radius=15)
 
+# 🛠️ Tech Stack:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,pytorch" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=mousabe&icon=0&color=0)](https://visitcount.itsvg.in)
