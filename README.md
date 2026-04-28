@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ```diff
-+ Mousab Eltgani
+Mousab Eltgani
 ```
 
 🎓 UIUC  
@@ -16,5 +16,5 @@
 ![](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,pytorch&theme=dark)
 
 # 🌐 Connect:
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousabe2@illinois.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousabheltgani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousabe2@illinois.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousabheltgani)
