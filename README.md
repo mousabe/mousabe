@@ -5,7 +5,7 @@ Hi, I’m Mousab
 📫 Contact: mousabe2@illinois.edu  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mousabe)
+![](https://github-readme-stats.vercel.app/api?username=mousabe&hide=contribs,prs)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
