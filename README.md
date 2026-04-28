@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Mousab  
-🎓 UIUC student  
+🎓 UIUC  
 💻 Interested in building, learning, and growing through projects  
 📫 Contact: mousabe2@illinois.edu  
 
