@@ -6,7 +6,7 @@
 
 🎓 UIUC  
 ⚡ Building products, code, and momentum  
-🧠 Data Science • Engineering • Business  
+🧠 Data Science & CS  
 📫 mousabe2@illinois.edu  
 
 # 📊 GitHub Stats:
